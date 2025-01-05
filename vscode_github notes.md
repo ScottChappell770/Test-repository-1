@@ -12,4 +12,5 @@
 - so the file is now staged and added to the repository.
 
 ## Commit the file
-- 
+- In the message box type something to track teh commit like "My First Commit"
+- Then select the check mark at the top of the box to commit. 
